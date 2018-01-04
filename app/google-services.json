@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "652554925891",
+    "firebase_url": "https://cheers-brothers.firebaseio.com",
+    "project_id": "cheers-brothers",
+    "storage_bucket": "cheers-brothers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652554925891:android:c2caebf88aa90733",
+        "android_client_info": {
+          "package_name": "com.example.juanpablo.prueba1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652554925891-t2q6m1hs1lsqjtuq40vclr4867qubh3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPeZNOvBIMINfcbXv5Kfq_sono1AIQKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652554925891:android:6b9c68c875be3262",
+        "android_client_info": {
+          "package_name": "com.maxi.android.cheersbrothersadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652554925891-t2q6m1hs1lsqjtuq40vclr4867qubh3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPeZNOvBIMINfcbXv5Kfq_sono1AIQKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
